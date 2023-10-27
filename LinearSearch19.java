@@ -13,4 +13,4 @@ public class LinearSearch19 {
         }
         System.out.println("Key ada dalam array pada posisi indeks ke-"+hasil);
     }
-}
+} 
